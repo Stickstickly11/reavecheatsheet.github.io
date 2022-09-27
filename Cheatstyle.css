@@ -1,0 +1,51 @@
+.cheat {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: bolder;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    
+    
+
+}
+
+.heading{
+    font-weight:500;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:greenyellow;
+    height:auto;
+    background-color: purple;
+    display: table-header-group;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+tbody{
+    display: table-row-group;
+    background-color: aqua;
+    
+
+    
+}
+
+.Reave{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 250px;
+    min-height: 200px;
+    max-height:250px;
+}
+
+html{
+    background-color:deepskyblue;
+}
